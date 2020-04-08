@@ -4,3 +4,15 @@
 
 ## 教程
 * [gitbook简单教程](./chapter01/gitbook教程.md)
+
+## IOS 
+
+## Android
+* [Glide Picasso 对比](./chapter_android/vsGlidePicasso.md)
+
+## Flutter 
+* [开发规范](./chapter_fultter/flutter开发规范.md)
+
+## C# 
+
+## Python 

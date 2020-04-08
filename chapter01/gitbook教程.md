@@ -16,4 +16,12 @@
     `-`: 水平分割线
 # 插件
 - 带有默认:highlight、search、sharing、font-settings、livereload
+    highlight： 代码高亮
+    search： 导航栏查询功能
+    sharing：右上角分享功能
+    font-settings：字体设置（最上方显示的"A"符号）
+    livereload：为GitBook实时重新加载
+
 - 安装插件:`gitbool install`
+
+# 坑
