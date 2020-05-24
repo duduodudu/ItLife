@@ -6,6 +6,8 @@
 * [gitbook简单教程](./chapter01/gitbook教程.md)
 
 ## IOS 
+* [swift杂记](./chapter_ios/swift杂记.md)
+
 
 ## Android
 * [Glide Picasso 对比](./chapter_android/vsGlidePicasso.md)
